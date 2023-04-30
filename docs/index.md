@@ -1,8 +1,8 @@
 ---
-title: Meshed Cloud | 微网格Mesh
+title: Meshed Cloud
 hero:
   title: Meshed Cloud
-  description: 微服务快速开发流平台
+  description: 微服务快速开发框架
   actions:
     - text: 快速开始
       link: /guide
